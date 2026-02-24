@@ -1,4 +1,4 @@
-# German Credit Risk Prediction — Decision Trees & Ensemble Techniques 🙂
+# German Credit Risk Prediction — Decision Trees & Ensemble Techniques 
 
 Build and compare **Decision Trees** and **Ensemble models** to classify loan applicants as **Good** or **Bad** credit risks (often interpreted as **non-defaulter vs defaulter**).
 
